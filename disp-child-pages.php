@@ -1,7 +1,8 @@
 <?php
 /*
- * Plugin Name: STGV
- * Description: Site specific code for stgvthionville.fr
+ * Plugin Name: disp-child-pages
+ * Description: Provides shortcode [disp_child_pages] that displays the list of
+ * child pages.
  */
 
 function disp_child_pages(){
