@@ -8,10 +8,10 @@ link. The result is easy to style using custom CSS
 
 # Usage
 
-- Clone this project in your `wp-content/plugins` directory.  
+- Clone this project in your `wp-content/plugins` directory
 - Activate the plugin
-- Modify you stylesheet to customize the rendering.
-- Insert the short code disp_child_pages in any page, where the list of child
+- Modify you stylesheet to customize the rendering
+- Insert the short code `[disp_child_pages]` in any page, where the list of child
 pages is wanted
 
 For example, you may use the following CSS to display each page as a box
